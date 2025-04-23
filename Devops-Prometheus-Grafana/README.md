@@ -1,8 +1,6 @@
 # Monitoring Stack with Prometheus and Grafana
 
-<div align="center">
-    <img src="c:\Users\bhave\OneDrive\Pictures\Screenshots\Screenshot 2025-04-23 232346.png" alt="Grafana Logo" style="width: 400px; height: auto;">
-</div>
+![Screenshot 2025-04-23 232346](https://github.com/user-attachments/assets/6f83d6f4-005f-4498-a090-caa0f8c305e3)
 
 This project sets up a complete monitoring stack using Prometheus and Grafana with Node Exporter for system metrics collection.
 
